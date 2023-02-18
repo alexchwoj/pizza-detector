@@ -49,5 +49,7 @@ else:
     print('Not pizza')
 
 ```
-![enter image description here](https://media.discordapp.net/attachments/850593437396500500/1076304272775458957/photo_2023-02-17_20-29-34.jpg)
-![enter image description here](https://media.discordapp.net/attachments/850593437396500500/1076304273048092703/photo_2023-02-17_20-29-34_2.jpg)
+
+## Screenshots
+![](https://media.discordapp.net/attachments/850593437396500500/1076304272775458957/photo_2023-02-17_20-29-34.jpg)
+![](https://media.discordapp.net/attachments/850593437396500500/1076304273048092703/photo_2023-02-17_20-29-34_2.jpg)
